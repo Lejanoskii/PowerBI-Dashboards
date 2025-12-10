@@ -48,7 +48,7 @@ AVERAGEX(VALUES(D_Shift[shift_name]), [Total Production])
 
 - Operator Ana Lira delivered the best performance.
 
-- Machine Press-900 produced the most units but also showed defect peaks.
+- Unexpected decline: several days in early February show a sudden drop in production volume.
 
-- Defect rate remained stable around ~3%.
+- Vulnerability point: the Press-900 machine concentrates the majority of production volume.
 ---
