@@ -1,24 +1,49 @@
-# Robotic Telemetry & Mechanical Performance Dashboard
+# 🤖 Robotic Telemetry & Mechanical Performance Dashboard
 
-## Overview
-This dashboard provides an operational and mechanical analysis of an industrial robotic environment, focusing on task execution performance and mechanical behavior.
+An industrial Power BI dashboard focused on real-time robotic telemetry and mechanical performance monitoring, using data integrated from a MySQL database.
 
-## Data Scope
-- Task execution duration
-- Joint torque measurements
-- Acceleration profiles
-- Execution speed over time
-- Task completion status
-- Robot model comparison
+This project analyzes task execution, mechanical stress, and operational behavior of robotic systems in an industrial environment, supporting engineering analysis and decision-making.
 
-## Tools & Technologies
-- Power BI
-- Power Query
-- DAX
-- Simulated industrial telemetry dataset
+## 📊 Project Overview
 
-## Use Case
-Designed for operational monitoring, engineering analysis, and performance evaluation in industrial automation and mechatronics scenarios.
+This dashboard demonstrates core Business Intelligence and Data Engineering skills, including:
 
-## Notes
-The data used in this project is simulated for educational and portfolio purposes.
+Real-time data integration with MySQL;
+
+ETL and data modeling for industrial telemetry;
+
+Performance and mechanical analysis for robotic systems;
+
+Interactive dashboards for operational monitoring;
+
+This project represents an advanced learning stage, combining Power BI, SQL, and industrial data concepts.
+
+## 🧰 Features Included
+✔ Visual Analysis
+
+- Task duration analysis by process type
+- Joint torque averages by robot model and year
+- Acceleration comparison across robotic models
+- Speed trends over time
+- Task execution status (Completed vs Error)
+
+✔ Technical Skills
+
+- MySQL database integration (near real-time monitoring)
+- Power Query transformations
+- DAX measures for performance metrics
+- Dashboard layout, usability, and filtering
+- Industrial data modeling aligned with engineering use cases
+
+## 🏭 Use Case
+
+- Designed for industrial automation, mechatronics, and robotic systems monitoring, enabling:
+- Performance evaluation
+- Mechanical behavior analysis
+- Process optimization
+- Operational visibility in manufacturing environments
+
+### 👨‍💻 Author
+
+Alexandre Macedo Lejanoski
+Power BI • SQL • Data Analytics • Mechatronics Engineering
