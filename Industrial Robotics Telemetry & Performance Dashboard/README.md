@@ -1,4 +1,4 @@
-# 🤖 Industrial Robotics Telemetry & Performance Dashboard
+# 📊 Industrial Robotics Telemetry & Performance Dashboard
 
 An advanced industrial analytics dashboard developed in Power BI, focused on robotic telemetry, mechanical performance, and operational monitoring, using data integrated from a MySQL database to simulate near real-time industrial environments.
 
